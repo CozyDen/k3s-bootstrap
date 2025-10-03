@@ -1,7 +1,7 @@
 # Bootstrapping
 
-## k3s node on Ubuntu
-- `wget https://raw.githubusercontent.com/Twinki14/CozyLab/main/k3s/ubuntu-init.sh init.sh`
+## k3s node on Debian
+- `wget https://raw.githubusercontent.com/CozyDen/k3s-bootstrap/main/debian-init.sh`
 - `sudo sh ./init.sh`
 
 ## Flux
